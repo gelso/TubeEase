@@ -4,7 +4,7 @@ A simple, senior-friendly client-side tool to interact with YouTube's API.
 
 **Designed specifically for older adults and users who are not comfortable with technology.** TubeEase features only 2-3 large, clearly visible buttons to make YouTube searches as simple as possible.
 
-This is an **open-source, non-profit project** created to help bridge the digital divide and make technology more accessible to everyone.
+This is an **open-source, non-profit project** created to help bridge the digital divide and make technology more accessible to more people.
 
 **Important Note:** To use Google's free YouTube API, a one-time technical setup is required. This configuration step needs to be completed by someone with basic technical knowledge (a family member, friend, or tech-savvy person). Once configured, the tool becomes completely simple to use for everyone.
 
@@ -21,7 +21,7 @@ This is an **open-source, non-profit project** created to help bridge the digita
 
 To use TubeEase, you need to get a YouTube API key from Google Cloud Console. Follow these steps:
 
-### Process Overview (details below)
+### Process Overview
 
 ```mermaid
 flowchart TD
