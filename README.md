@@ -21,7 +21,7 @@ This is an **open-source, non-profit project** created to help bridge the digita
 
 To use TubeEase, you need to get a YouTube API key from Google Cloud Console. Follow these steps:
 
-### Process Overview
+### Process Overview (details below)
 
 ```mermaid
 flowchart TD
