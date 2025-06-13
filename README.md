@@ -1,13 +1,17 @@
 # TubeEase
 
-A simple client-side tool to interact with YouTube's API. Just download and open in your browser!
+A simple, senior-friendly client-side tool to interact with YouTube's API. 
+
+**Designed specifically for older adults and users who are not comfortable with technology.** TubeEase features only 2-3 large, clearly visible buttons to make YouTube searches as simple as possible.
+
+This is an **open-source, non-profit project** created to help bridge the digital divide and make technology more accessible to everyone.
 
 ## How to Use
 1. Download all files from this repository to your computer
 2. Follow the setup instructions below to get your YouTube API key
 3. Configure your API key in the `config.js` file
 4. Open `ita.html` (or your preferred language version) in your web browser
-5. Start using TubeEase!
+5. Start using TubeEase with just a few clicks!
 
 *Note: More language versions coming soon - currently available: Italian (ita.html)*
 
