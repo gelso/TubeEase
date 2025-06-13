@@ -22,10 +22,11 @@ flowchart TD
     I --> J["Set API restrictions to YouTube Data API v3 only"]
     J --> K["Save API Key Settings"]
     K --> L["Copy Your API Key"]
-    L --> M["Open config.js in TubeEase folder"]
-    M --> N["Replace 'your-youtube-api-key-here' with actual key"]
-    N --> O["Save config.js"]
-    O --> P[Ready to Use TubeEase! 🎯]
+    L --> M["Rename config file to config.js"]
+    M --> N["Open config.js in TubeEase folder"]
+    N --> O["Replace 'your-youtube-api-key-here' with actual key"]
+    O --> P["Save config.js"]
+    P --> Q[Ready to Use TubeEase! 🎯]
     
     style A fill:#e1f5fe
     style P fill:#c8e6c9
@@ -59,7 +60,8 @@ flowchart TD
 3. Click "Save"
 
 ### Step 5: Configure TubeEase
-1. Open the `config.js` file in your local TubeEase folder
+1. In your local TubeEase folder, rename the configuration file to `config.js`
+2. Open the `config.js` file
 2. Find this section:
 ```javascript
 const CONFIG = {
