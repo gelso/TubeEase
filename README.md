@@ -1,6 +1,15 @@
 # TubeEase
 
-A simple tool to interact with YouTube's API.
+A simple client-side tool to interact with YouTube's API. Just download and open in your browser!
+
+## How to Use
+1. Download all files from this repository to your computer
+2. Follow the setup instructions below to get your YouTube API key
+3. Configure your API key in the `config.js` file
+4. Open `ita.html` (or your preferred language version) in your web browser
+5. Start using TubeEase!
+
+*Note: More language versions coming soon - currently available: Italian (ita.html)*
 
 ## Setup Instructions
 
@@ -26,7 +35,8 @@ flowchart TD
     M --> N["Open config.js in TubeEase folder"]
     N --> O["Replace 'your-youtube-api-key-here' with actual key"]
     O --> P["Save config.js"]
-    P --> Q[Ready to Use TubeEase! 🎯]
+    P --> Q["Open ita.html (or your language version) in browser"]
+    Q --> R[Ready to Use TubeEase! 🎯]
     
     style A fill:#e1f5fe
     style P fill:#c8e6c9
@@ -96,4 +106,4 @@ If you need help, check the [YouTube Data API documentation](https://developers.
 
 ---
 
-Happy coding! 🎯
+Happy YouTubing! 🎬
