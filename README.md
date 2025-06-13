@@ -14,10 +14,10 @@ This is an **open-source, non-profit project** created to help bridge the digita
 3. Configure your API key in the `config.js` file
 4. Open `ita.html` (or your preferred language version) and you're ready to go!
 
-*The Complete United Nations Official Languages Collection! 
-Available: Italian (ita.html), English (eng.html), Spanish (esp.html), 
-Chinese (chn.html), Hindi (hin.html), French (fra.html), 
-Portuguese (por.html), Russian (rus.html) and Arabic (ara.html)*
+*Note: More languages coming soon!
+Currently available:
+UN Official Languages: English (eng.html), Spanish (esp.html), Chinese (chn.html), French (fra.html), Russian (rus.html), Arabic (ara.html)
+Plus additional major languages: Italian (ita.html), Hindi (hin.html), Portuguese (por.html)*
 
 ## Setup Instructions
 
