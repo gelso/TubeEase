@@ -14,7 +14,9 @@ This is an **open-source, non-profit project** created to help bridge the digita
 3. Configure your API key in the `config.js` file
 4. Open `ita.html` (or your preferred language version) and you're ready to go!
 
-*Note: More language versions coming soon - currently available: Italian (ita.html) and English (eng.html)*
+*Available languages: Italian | English | Spanish | Chinese (Simplified)*
+*Files: ita.html | eng.html | esp.html | chi.html*
+*More languages coming soon!*
 
 ## Setup Instructions
 
