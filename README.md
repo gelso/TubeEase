@@ -16,8 +16,8 @@ This is an **open-source, non-profit project** created to help bridge the digita
 
 *Note: More languages coming soon! Currently available: 
 Italian (ita.html), English (eng.html), Spanish (esp.html), 
-Chinese (chn.html), Hindi (hin.html), French (fra.html) 
-and Portuguese (por.html)*
+Chinese (chn.html), Hindi (hin.html), French (fra.html), 
+Portuguese (por.html) and Russian (rus.html)*
 
 ## Setup Instructions
 
