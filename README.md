@@ -6,6 +6,8 @@ A simple, senior-friendly client-side tool to interact with YouTube's API.
 
 This is an **open-source, non-profit project** created to help bridge the digital divide and make technology more accessible to everyone.
 
+**Important Note:** To use Google's free YouTube API, a one-time technical setup is required. This configuration step needs to be completed by someone with basic technical knowledge (a family member, friend, or tech-savvy person). Once configured, the tool becomes completely simple to use for everyone.
+
 ## How to Use
 1. Download all files from this repository to your computer
 2. Follow the setup instructions below to get your YouTube API key
