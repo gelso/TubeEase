@@ -14,10 +14,10 @@ This is an **open-source, non-profit project** created to help bridge the digita
 3. Configure your API key in the `config.js` file
 4. Open `ita.html` (or your preferred language version) and you're ready to go!
 
-*Note: More languages coming soon! Currently available: 
-Italian (ita.html), English (eng.html), Spanish (esp.html), 
+*The Complete United Nations Official Languages Collection! 
+Available: Italian (ita.html), English (eng.html), Spanish (esp.html), 
 Chinese (chn.html), Hindi (hin.html), French (fra.html), 
-Portuguese (por.html) and Russian (rus.html)*
+Portuguese (por.html), Russian (rus.html) and Arabic (ara.html)*
 
 ## Setup Instructions
 
